@@ -1,5 +1,5 @@
 
-<h2 id="changing-themes">Themes</h2>
+<h2 id="changing-themes">Themes commited</h2>
 
 Starting with [version  3.5](http://avchat.net/blog/avchat-3-5-now-available-with-major-redesign-and-themes/) AVChat ships with 2 themes: **light** and **dark**. Both themes are located in the new `themes` folder. The **light** theme is the default one.
 
